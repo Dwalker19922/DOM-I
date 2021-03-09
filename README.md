@@ -16,30 +16,30 @@ You have been provided a [JSON object](js/index.js) with all the necessary data 
 
 **Follow these steps to set up and work on your project:**
 
-* [ ] Create a forked copy of this project.
-* [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-* [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-* [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-* [ ] Push commits: git push origin `<firstName-lastName>`.
+* [d ] Create a forked copy of this project.
+* [d ] Clone your OWN version of the repository (Not Lambda's by mistake!).
+* [ d] Create a new branch: git checkout -b `<firstName-lastName>`.
+* [ d] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+* [ d] Push commits: git push origin `<firstName-lastName>`.
 
 ### Task 2a: MVP
 
 #### Create selectors to point your data into elements
 
-* [ ] Create selectors by using any of the DOM element's methods
-* [ ] Note that IDs have been used on all images. Use the IDs to update src path content
+* d[ ] Create selectors by using any of the DOM element's methods
+* [ d] Note that IDs have been used on all images. Use the IDs to update src path content
 
 #### Update the HTML with the JSON data
 
-* [ ] Remember, NO direct updating of the HTML source is allowed.
-* [ ] Using your selectors, update the content to match the example file.
-* [ ] Remember to update the src attributes on images
+* [ d] Remember, NO direct updating of the HTML source is allowed.
+* [d ] Using your selectors, update the content to match the example file.
+* [d ] Remember to update the src attributes on images
 
 #### Add new content
 
-* [ ] Change the color of the navigation text to be green.
-* [ ] Utilize `.appendChild()` and `.prepend()` to add two new items to the navigation system. You can call them whatever you want.
-* [ ] Check your work by looking at the [original html](original.html) in the browser
+* [d ] Change the color of the navigation text to be green.
+* [ d] Utilize `.appendChild()` and `.prepend()` to add two new items to the navigation system. You can call them whatever you want.
+* [d ] Check your work by looking at the [original html](original.html) in the browser
 
 ### Task 3: Stretch
 
